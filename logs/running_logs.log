@@ -27,3 +27,7 @@
 [2023-10-12 14:51:45,034: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
 [2023-10-12 14:51:46,664: INFO: main: >>>>stage Prepare Base Model Pipeline completed <<<<< 
  ]
+[2023-10-12 14:56:07,408: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-10-12 14:56:07,413: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-12 14:56:07,414: INFO: common: created directory at: artifacts]
+[2023-10-12 14:56:07,416: INFO: common: created directory at: artifacts/training]

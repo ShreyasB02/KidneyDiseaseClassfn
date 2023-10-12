@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shreyasbattula/KidneyDiseaseClassfn/mlruns/0/de15965310d448ac92cf849015dfb886/artifacts
+end_time: 1697137033537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de15965310d448ac92cf849015dfb886
+run_name: trusting-squid-647
+run_uuid: de15965310d448ac92cf849015dfb886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697136997779
+status: 3
+tags: []
+user_id: shreyasbattula

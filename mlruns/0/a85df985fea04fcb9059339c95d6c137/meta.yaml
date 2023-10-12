@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shreyasbattula/KidneyDiseaseClassfn/mlruns/0/a85df985fea04fcb9059339c95d6c137/artifacts
+end_time: 1697138813578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a85df985fea04fcb9059339c95d6c137
+run_name: sneaky-sheep-580
+run_uuid: a85df985fea04fcb9059339c95d6c137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697138791384
+status: 3
+tags: []
+user_id: shreyasbattula

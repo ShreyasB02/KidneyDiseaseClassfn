@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shreyasbattula/KidneyDiseaseClassfn/mlruns/0/573c046423ba488581a194301a08ac2a/artifacts
+end_time: 1697137966725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 573c046423ba488581a194301a08ac2a
+run_name: masked-mule-404
+run_uuid: 573c046423ba488581a194301a08ac2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697137918527
+status: 3
+tags: []
+user_id: shreyasbattula
